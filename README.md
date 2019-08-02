@@ -1,36 +1,36 @@
 # record
 
-## Project setup
+## 项目设置(下载依赖)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译和热重新开发以进行开发
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
 
-### Run your tests
+### 运行测试
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### 提示和修复文件
 ```
 npm run lint
 ```
 
-### Run your end-to-end tests
+### 运行端到端测试
 ```
 npm run test:e2e
 ```
 
-### Run your unit tests
+### 运行单元测试
 ```
 npm run test:unit
 ```
